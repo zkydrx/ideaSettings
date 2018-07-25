@@ -1,0 +1,13 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="20180627" type="Markdown" />
+      <mapping pattern="example" type="Markdown" />
+      <mapping pattern="重置密码验证码" type="Markdown" />
+      <mapping pattern="How_to_think_like_a_promgrmmer" type="Markdown" />
+      <mapping pattern="What_is_the_next" type="Markdown" />
+      <mapping pattern="At_night_20180626" type="Markdown" />
+      <mapping pattern="ALittleSad" type="Markdown" />
+    </extensionMap>
+  </component>
+</application>
