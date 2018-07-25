@@ -1,0 +1,127 @@
+<application>
+  <component name="AppInspectionProfilesVisibleTreeState">
+    <entry key="Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Java</id>
+          </State>
+          <State>
+            <id>Serialization issuesJava</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>SerializableHasSerialVersionUIDField</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+    <entry key="Project Default To IDE">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Java</id>
+          </State>
+          <State>
+            <id>Security issuesJava</id>
+          </State>
+          <State>
+            <id>Serialization issuesJava</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>SerializableHasSerialVersionUIDField</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="CvsApplicationLevelConfiguration">
+    <option name="PATH_TO_PASSWORD_FILE" value="$userdir/.cvspass" />
+  </component>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="C:/Program Files/nodejs/node.exe">
+      <version-cache version="6.10.3" last-modified="1493712544000" />
+      <npm-package value="C:/Program Files/nodejs/node_modules/npm" />
+    </local-interpreter>
+  </component>
+  <component name="PersistenceGenerationSettings">
+    <option name="addToUnit" value="true" />
+    <option name="generateColumnProperties" value="true" />
+    <option name="generateDefaultRelationships" value="true" />
+    <option name="GENERATE_COLUMN_PROPERTIES" value="true" />
+    <option name="ADD_TO_UNIT" value="true" />
+    <option name="GENERATE_DEFAULT_RELATIONSHIPS" value="true" />
+  </component>
+  <component name="RefactoringSettings">
+    <option name="MOVE_PREVIEW_USAGES" value="false" />
+    <option name="INTRODUCE_LOCAL_CREATE_FINALS" value="false" />
+  </component>
+  <component name="SvnApplicationSettings">
+    <option name="myCheckoutURLs">
+      <list>
+        <option value="https://115.238.110.19:8443/svn/tyd-logistics/branches/tyd-logistics" />
+        <option value="https://115.238.110.19:8443/svn/tyd-logistics/branchs/tyd-logistics" />
+        <option value="https://10.121.5.42:8443/svn/tyd-logistics/branches/tyd-logistics-v1.0" />
+        <option value="https://115.238.110.19:8443/svn/tyd-logistics/trunk/tyd-logistics" />
+      </list>
+    </option>
+    <option name="myTypedURLs">
+      <list>
+        <option value="https://115.238.110.19:8443/svn/tyd-logistics/branchs/tyd-logistics" />
+        <option value="https://115.238.110.19:8443/svn/tyd-logistics/trunk/tyd-logistics" />
+        <option value="https://115.238.110.19:8443/svn/tyd-logistics/branches/tyd-logistics" />
+        <option value="https://115.238.110.19:8443/svn/tyd-logistics" />
+        <option value="https://10.121.5.42:8443/svn/tyd-logistics/branches/tyd-logistics-v1.0" />
+        <option value="https://10.121.5.42:8443/svn/tyd-wechat/trunk/tyd-wechat" />
+        <option value="https://10.121.5.42:8443/svn/tyd-logistics/trunk/tyd-logistics" />
+        <option value="https://10.121.5.42:8443/svn/tyd-logistics/branches" />
+        <option value="https://10.121.5.42:8443/svn/tyd-logistics/trunk" />
+        <option value="https://10.121.5.42:8443/svn/tyd-logistics" />
+      </list>
+    </option>
+    <option name="mySvnCommandLine" value="D:\tools\subversion-1.9.5-win32-binary\svn.exe" />
+  </component>
+  <component name="SvnBranchMapperManager">
+    <option name="myMapping">
+      <map>
+        <entry key="https://10.121.5.42:8443/svn/tyd-logistics/branches/tyd-logistics-v1.0">
+          <value>
+            <set>
+              <option value="D:\project\branches\tyd-logistics-v1.0" />
+              <option value="D:\project\branches\tyd-logistics-v1.0_1" />
+            </set>
+          </value>
+        </entry>
+        <entry key="https://10.121.5.42:8443/svn/tyd-logistics/trunk/tyd-logistics">
+          <value>
+            <set>
+              <option value="D:\project\athome\tyd-logistics" />
+              <option value="D:\project\temp\tyd-logistics" />
+            </set>
+          </value>
+        </entry>
+        <entry key="https://115.238.110.19:8443/svn/tyd-logistics/trunk/tyd-logistics">
+          <value>
+            <set>
+              <option value="D:\project\tyd\fromSVN\tyd-logistics" />
+            </set>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="ToStringSettings">
+    <option name="insertNewMethodInitialOption" value="At the end of class" />
+    <option name="insertNewMethodOption" value="At the end of class" />
+  </component>
+  <component name="WebServicesPluginSettings" SelectedPlatform="Apache Axis" />
+</application>
